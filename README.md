@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:ramirest@gmail.com">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-ramirest@gmail.com-red"/>
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
 </a>
 
 
