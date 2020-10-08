@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 
-
 ### Hi there! Welcome to my profile! 👋
 
-## Here is my skills
+#### Here is my skills
 
 - 💻 PHP (Frameworks: Laravel, CodeIgniter, Yii), MySQL, Angular, Flutter
 
