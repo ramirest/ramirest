@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Ramires%20Teixeira-blue"/>
 </a>
 
+<a href="mailto:ramirest@gmail.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-ramirest@gmail.com-red"/>
+</a>
+
 
 <br/>
 
@@ -30,9 +34,6 @@ Here are some ideas to get you started:
 
 - 💻 PHP (Frameworks: Laravel, CodeIgniter, Yii), MySQL, Angular, Flutter
 
-- 📫 How to reach me: <a href="mailto:ramirest@gmail.com">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-ramirest@gmail.com-red"/>
-</a>
 
 - 🌱 I'm currently learning docker containers, kubernetes, and mobile development with flutter
 
