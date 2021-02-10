@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #### Here is my skills
 
-- 💻 PHP (Frameworks: Laravel, CodeIgniter, Yii), MySQL, Angular, Flutter
+- 💻 PHP (Frameworks: Laravel, CodeIgniter, Yii), Drupal, MySQL, Angular, Flutter
 
 
 - 🌱 I'm currently learning docker containers, kubernetes, and mobile development with flutter
